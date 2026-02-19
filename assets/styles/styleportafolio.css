@@ -15,3 +15,11 @@ footer{
     padding: 1rem;
     width: auto;
 }
+
+.navbar-nav .nav-link:hover{
+    color: white !important;
+}
+
+.container,.card:hover{
+    zoom: 150%;
+}
